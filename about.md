@@ -5,7 +5,7 @@ Hit the grown running with no server management, no upfront provisioning, ready 
 ## Serverless?
 It abstracts away the complexity associated with managing servers.
 
-You only need to provide your code and data to a serverless service like Google Cloud Serverless and AWS Lambda.
+You only need to provide your code and data to a serverless service like [Google Cloud Serverless][google-cloud-serverless] and [AWS Lambda][aws-lambda].
 
 Avoid management of servers that demand repetitive and error-rone tasks (e.g.: scaling, OS security patches, OS package management, etc).
 
@@ -30,3 +30,5 @@ The benefit with PropolisFramework versus other OpenSource frameworks are as fol
 - You can easily fork on GitHub one of the many microservices and modify its small code based to fit your needs
 - It also comes with Terraform coded serverless environment so you as a developer just need to run the Terraform code and get a full PropolisFramework enviroment running in very short time
 
+[google-cloud-serverless]: https://cloud.google.com/serverless/
+[aws-lambda]: https://aws.amazon.com/lambda/
