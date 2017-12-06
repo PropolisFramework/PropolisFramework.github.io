@@ -20,15 +20,18 @@ Many OpenSource frameworks out there offer these parts but sometimes they are no
 
 PropolisFramework is serverless/microservice web service/application framework. This means that you each part is his own microservice that runs in its own serverless environment.
 
-The benefit with PropolisFramework versus other OpenSource frameworks are as follows:
+The benefit with [PropolisFramework][propolis-framework] versus other OpenSource frameworks are as follows:
 
 - Easy to setup on serverless environments (it's made for it)
-- You could as easily setup PropolisFramework in a Docker environment
-- Built with Node.js (JavaScript) simple, popular, and very well supported programming language
+- You could as easily setup [PropolisFramework][propolis-framework] in a Docker environment
+- Built with [Node.js][nodejs] (JavaScript) simple, popular, and very well supported programming language
 - Small code based, so very quickly a developer can read the code and find out what that microservice is doing
 - You can choose what you want to keep or not compared to many heavy monolith frameworks
 - You can easily fork on GitHub one of the many microservices and modify its small code based to fit your needs
-- It also comes with Terraform coded serverless environment so you as a developer just need to run the Terraform code and get a full PropolisFramework enviroment running in very short time
+- It also comes with [Terraform][terraform] coded serverless environment so you as a developer just need to run the [Terraform][terraform] code and get a full [PropolisFramework][propolis-framework] enviroment running in very short time
 
+[propolis-framework]: https://github.com/PropolisFramework
+[nodejs]: https://nodejs.org/en/
 [google-cloud-serverless]: https://cloud.google.com/serverless/
 [aws-lambda]: https://aws.amazon.com/lambda/
+[terraform]: https://www.terraform.io/
